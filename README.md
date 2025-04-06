@@ -1,2 +1,2 @@
 # Progetto Computazione Naturale
- Abbinamento di Algoritmi Genetici con Problemi di Copertura Esatta
+ Abbinamento di Algoritmi Genetici e Algoritmi Deterministici Ottimizzati per Problemi di Copertura Esatta
