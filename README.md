@@ -1,5 +1,7 @@
 # Progetto Computazione Naturale
- Abbinamento di Algoritmi Genetici e Algoritmi Deterministici Ottimizzati per Problemi di Copertura Esatta
+ Abbinamento di Algoritmi Genetici e Algoritmi Deterministici Ottimizzati per Problemi di Copertura Esatta.
+
+ 
 Per poter eseguire il programma occorre, nel caso in sui si voglia dare in input una configurazione da file csv, copiare esso nello stesso percorso 
 del file .py e modificare la riga 444 inserendo al posto di 'easy1.csv' il nome del file di input.
 
