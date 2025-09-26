@@ -1,10 +1,9 @@
-# Progetto Intelligenza Artificiale e Computazione Naturale.
- Abbinamento di Algoritmi Genetici e Algoritmi Deterministici Ottimizzati per Problemi di Copertura Esatta.
+#Artificial Intelligence and Natural Computation Project
 
- 
-Per poter eseguire il programma occorre, nel caso in sui si voglia dare in input una configurazione da file csv, copiare esso nello stesso percorso 
-del file .py e modificare la riga 607 inserendo al posto di 'easy1.csv' il nome del file di input.
+Combination of Genetic Algorithms and Optimized Deterministic Algorithms for Exact Cover Problems.
 
-In alternativa è possibile definire un numpy array corrispondente al sudoku di input e passarlo al metodo brka_algorithm (riga 624).
+To run the program, if you want to provide an input configuration from a CSV file, copy it into the same directory as the .py file and modify line 607 by replacing 'easy1.csv' with the name of the input file.
 
-Esempi di come definire il sudoku iniziale sono dati dai file "easy1.csv", "hard10.csv", "extreme1.csv" presenti in questa directory.
+Alternatively, it is possible to define a NumPy array corresponding to the input Sudoku and pass it to the brka_algorithm method (line 624).
+
+Examples of how to define the initial Sudoku are provided in the files "easy1.csv", "hard10.csv", and "extreme1.csv" available in this directory.
